@@ -1,0 +1,1 @@
+{"splits": ["train", "train_aug_x5", "train_aug_x10", "train_no_empty", "train_no_empty_aug_x1", "train_no_empty_aug_x2", "validation", "validation_aug_x5", "validation_aug_x10", "validation_no_empty", "validation_no_empty_aug_x1", "validation_no_empty_aug_x2", "test", "test_1k"]}
