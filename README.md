@@ -117,29 +117,6 @@ Depending on the dataset, the repository may include:
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── data/
-│   ├── urdu/
-│   ├── shahmukhi/
-│   ├── sindhi/
-│   └── pashto/
-│
-├── augmented_data/
-│   ├── cluster_based/
-│   └── random_replacement/
-│
-├── dictionaries/
-│   └── entity_dictionaries/
-│
-├── README.md
-└── LICENSE
-```
-
----
-
 ## Research Background
 
 Named Entity Recognition remains challenging for low-resource languages because of limited annotated datasets and weak representation in multilingual language models.
